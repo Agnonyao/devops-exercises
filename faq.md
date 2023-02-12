@@ -103,3 +103,6 @@ You are right, both ask about horizontal scaling but it's done from a different 
 
 Absolutely. Don't be afraid to raise ideas and start discussions.<br>
 I'll be more than happy to discuss any change you think we should make to improve the learning experience
+
+
+thank you and very good job
