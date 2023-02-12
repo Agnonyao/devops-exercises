@@ -1,10 +1,10 @@
 ## How to prepare for DevOps/SRE/Production Engineer interviews?
  
-Note: the following is opinionated.
+Note: the following is opinionated
  
 ### Skills you should have
  
-#### Linux
+#### Linux.
  
 Every DevOps Engineer should have a deep understanding of at least one operating system and if you have the option to choose then I would say it should definitely be Linux as I believe it's a requirement of at least 90% of the DevOps jobs postings out there. In addition, Linux is almost integral part of any sub-area or domain in DevOps like Cloud, Containers, etc.
  
